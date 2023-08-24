@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  gap: 20px;
+}
+h1 {
+  background-color: beige;
+  margin: 0px;
+  padding: 10px;
+  flex: 1;
+}
+body {
+  margin: 0px;
+}
